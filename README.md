@@ -27,4 +27,4 @@ MIT
 
 # Preview of the App
 * This is how the app looks
-![UserDirectory Screenshot](.\client\src\gbooks.PNG)
+![UserDirectory Screenshot](./gbooks.PNG)
